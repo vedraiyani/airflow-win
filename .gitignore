@@ -1,0 +1,10 @@
+# airflow
+logs
+
+webserver_config.py
+
+#db
+data
+
+# python
+__pycache__
